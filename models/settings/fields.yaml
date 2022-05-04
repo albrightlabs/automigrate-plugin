@@ -1,0 +1,14 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    _hint:
+        label: ''
+        type: partial
+        path: $/albrightlabs/automigrate/models/settings/_hint.htm
+    status:
+        label: Enabled
+        comment: When checked, migrations will be run on any backend user login
+        type: checkbox
+        span: full

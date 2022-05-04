@@ -1,0 +1,8 @@
+{
+    "name": "albrightlabs/automigrate-plugin",
+    "type": "october-plugin",
+    "description": "Runs any migrations on backend user login.",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
