@@ -4,6 +4,6 @@
     "description": "Runs any migrations on backend user login.",
     "require": {
         "composer/installers": "~1.0",
-        "october/system": "^2.0"
+        "october/system": ">=2.0"
     }
 }
